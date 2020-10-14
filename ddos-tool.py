@@ -42,8 +42,8 @@ print(r"""
 
  ________________________________________
 /          Created By: Absurded          \
-|       Si usa demaciados Bytes           |
-\       Su internet se relentisara       /
+|           Demasiados bytes              |
+\       Su internet se ralentizará       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
