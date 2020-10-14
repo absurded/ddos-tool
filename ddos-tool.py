@@ -8,7 +8,7 @@ from sys import platform
 
 ########################################
 ########################################
-# Solo propósito educativo          #
+# Solo proposito educativo          #
 ########################################
 # No me hago responsable de sus acciones #
 ########################################
@@ -43,7 +43,7 @@ print(r"""
  ________________________________________
 /          Created By: Absurded          \
 |           Demasiados bytes              |
-\       Su internet se ralentizará       /
+\       Su internet se ralentizara       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
